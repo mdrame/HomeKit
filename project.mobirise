@@ -89,7 +89,8 @@
       }
     ],
     "gdpr": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
